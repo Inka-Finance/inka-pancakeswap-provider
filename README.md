@@ -7,7 +7,12 @@
 
 - [Description](#description)
 - [How it works](#how-it-works)
+- [Built With](#built-with)
 - [How to run](#how-to-run)
+- [Future Updates](#future-updates)
+- [Author](#author)
+- [Support](#support)
+
 
 ## Description
 
@@ -22,6 +27,12 @@ Compound is an algorithmic, autonomous interest rate protocol built for develope
 </p>
 
 <p>Smart contract InkaPancakeSwapProvider is a special layer for integration with the PancakeSwap service. This layer provides easier access to perform operations on the service.</p>
+
+## Built With
+
+- NodeJS
+- Truffle.js
+- Web3.js
 
 ## How to run
 
@@ -39,3 +50,24 @@ $ truffle compile
 
 $ truffle migrate --network mainnet
 ```
+
+## Future Updates
+
+- [x] Add Liquidity ETH
+- [x] Add Liquidity ERC20
+- [x] Swap ETH -> ERC20
+- [x] Swap ERC20 -> ETH
+- [x] Swap ERC20 -> ERC20
+
+## Author
+
+- [Profile](https://github.com/Inka-Finance "Inka Finance Development Team")
+- [Email](mailto:a.zhaxybayev@inka.finance?subject=Hi "Hi!")
+- [WebSite](https://inka.finance/ "Welcome")
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!
+
