@@ -53,11 +53,11 @@ $ truffle migrate --network mainnet
 
 ## Future Updates
 
-- [x] Add Liquidity ETH
-- [x] Add Liquidity ERC20
-- [x] Swap ETH -> ERC20
-- [x] Swap ERC20 -> ETH
-- [x] Swap ERC20 -> ERC20
+- [x] Add Liquidity BNB
+- [x] Add Liquidity BEP20
+- [x] Swap BNB -> BEP20
+- [x] Swap BEP20 -> BNB
+- [x] Swap BEP20 -> BEP20
 
 ## Author
 
